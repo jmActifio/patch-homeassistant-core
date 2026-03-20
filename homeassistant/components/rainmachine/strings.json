@@ -175,7 +175,7 @@
           "name": "Measured rainfall"
         },
         "solarrad": {
-          "description": "Current solar radiation (MJ/m²/d).",
+          "description": "Current solar radiation (MJ/m²/h).",
           "name": "Solar radiation"
         },
         "temperature": {

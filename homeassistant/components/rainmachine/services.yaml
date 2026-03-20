@@ -131,9 +131,9 @@ push_weather_data:
       selector:
         number:
           min: 0
-          max: 100
+          max: 5
           step: 0.1
-          unit_of_measurement: "MJ/m²/d"
+          unit_of_measurement: "MJ/m²/h"
     et:
       selector:
         number:
